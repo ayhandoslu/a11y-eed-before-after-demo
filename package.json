@@ -1,0 +1,14 @@
+{
+  "name": "a11y-eed-before-after-demo",
+  "version": "1.0.0",
+  "description": "Engelleri Anla, Erisilebilir Uygulamalar Kodla | Engelsiz Erisim Dernegi",
+  "author": "Ayhan Doslu <ayhan.doslu@simpux.com> (https://engelsizerisim.com)",
+  "license": "MIT",
+  "scripts": {
+    "start": "gulp serve"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.26.3",
+    "gulp": "^3.9.1"
+  }
+}
