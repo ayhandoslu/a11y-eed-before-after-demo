@@ -2,14 +2,26 @@
 
 ## Engelleri Anla, Erişilebilir Uygulamalar Kodla
 
+### Edin
+
+```bash
 git clone https://github.com/ayhandoslu/a11y-eed-before-after-demo.git
+```
+
+### Yükle
 
 ```bash
 cd a11y-eed-before-after-demo
 npm install
 ```
 
-To start project:
+### Çalıştır
+
 ```bash
-gulp serve
+npm start
 ```
+
+## Katkıda bulunanlar
+
+- [Ayhan Döşlü](https://github.com/ayhandoslu)
+- [Gökhan Döşlü](https://github.com/gokhandoslu)
