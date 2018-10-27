@@ -46,7 +46,7 @@ Ara/Networking: 30 dk
 - Her adımın, Çağrı ve Olcay tarafından canlı olarak test edilmesi
 - Soru & cevap
 
-## Before and after demo
+## Before and After Demo
 
 ### Edin
 
